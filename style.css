@@ -1,0 +1,7 @@
+.bigRed{
+    background-color: red;
+    color: white;
+}.centered{
+    text-align: center;
+    margin: 10%;
+}
